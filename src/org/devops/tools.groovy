@@ -1,4 +1,4 @@
-
+package org.devops
 //格式化输出
 def PrintMes(value,color){
     colors = ['red'   : "\033[40;31m >>>>>>>>>>>${value}<<<<<<<<<<< \033[0m",
